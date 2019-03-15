@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_username">400dp</dimen>
+    <dimen name="padding_principal">70dp</dimen>
+    <dimen name="padding_main">30dp</dimen>
+</resources>
